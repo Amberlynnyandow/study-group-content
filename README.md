@@ -1,2 +1,2 @@
-# data analytics educational material 
+# data science educational material 
 
